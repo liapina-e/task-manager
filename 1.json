@@ -1,0 +1,25 @@
+{
+    "elements": [
+        {
+            "ID": "1",
+            "Status": "TODO",
+            "Priority": "Высокий",
+            "Description": "This is a critical issue that needs immediate attention.",
+            "Deadline": "02 Март 2025 10:00:00"
+        },
+        {
+            "ID": "2",
+            "Status": "IN_PROGRESS",
+            "Priority": "Средний",
+            "Description": "This issue is being worked on.",
+            "Deadline": "03 Март 2025 16:00:00"
+        },
+        {
+            "ID": "3",
+            "Status": "DONE",
+            "Priority": "Низкий",
+            "Description": "This issue has been resolved.",
+            "Deadline": "04 Март 2025 10:00:00"
+        }
+    ]
+}

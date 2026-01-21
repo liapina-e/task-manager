@@ -1,0 +1,48 @@
+## .NET ##
+**/[Bb]in/
+**/[Oo]bj/
+**/.vs/
+**/.vscode/
+**/.idea/
+
+## User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Nn]uGet/
+
+## Files built by Visual Studio
+*.exe
+*.dll
+*.pdb
+*.cache
+
+## macOS
+.DS_Store
+
+## Environment files
+.env
+*.env.local
+appsettings.Development.json
+
+## Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
